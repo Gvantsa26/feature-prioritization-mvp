@@ -197,5 +197,5 @@ This tool embodies the MVP principle: **solve the core problem with the simplest
 
 ## Screenshots
 
-![Page 1](images/screenshot.png)
+![Page 1](images/Screenshot.png)
 ![Page 2](images/screenshot2.png)

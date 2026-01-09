@@ -2,6 +2,11 @@
 
 An internal MVP tool for startups and product teams to systematically prioritize feature requests based on business value, user impact, and development effort.
 
+## Screenshots
+
+![Page 1](images/Screenshot.png)
+![Page 2](images/screenshot2.png)
+
 ## Problem Statement
 
 Startups and product teams face a constant challenge: too many feature ideas, limited development resources, and no clear framework for deciding what to build next. Without a structured approach, teams often:
@@ -194,8 +199,3 @@ This tool embodies the MVP principle: **solve the core problem with the simplest
 
 **Built for startups, by product people who understand that sometimes the best tool is the one that gets out of your way and helps you make better decisions.**
 
-
-## Screenshots
-
-![Page 1](images/Screenshot.png)
-![Page 2](images/screenshot2.png)
